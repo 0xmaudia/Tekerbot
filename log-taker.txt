@@ -34124,3 +34124,384 @@
 3/31/2025 | 1:05:56 AM | INFO | Trying to check user miner status... 
 3/31/2025 | 1:05:56 AM | INFO | Last mining time: 3/30/2025, 1:12:24 AM
 3/31/2025 | 1:05:56 AM | WARN | Mining already started, next mining time is: 3/31/2025, 1:12:24 AM
+3/31/2025 | 4:15:54 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:15:54 AM | INFO | Start process for wallet 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4 
+3/31/2025 | 4:15:55 AM | INFO | Trying To Login for wallet: 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4 
+3/31/2025 | 4:15:55 AM | INFO | Login successful... 
+3/31/2025 | 4:15:55 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:15:56 AM | INFO | User ID: 105360711 | Twitter: @maudiacarlina | Total Points: 967540 
+3/31/2025 | 4:15:56 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:15:56 AM | INFO | Last mining time: 3/30/2025, 1:06:45 AM
+3/31/2025 | 4:15:56 AM | INFO | Trying to start Mining for wallet: 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4 
+3/31/2025 | 4:15:57 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:15:57 AM | INFO | Trying to activate mining on-chain for wallet: 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4 
+3/31/2025 | 4:16:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x40492cd3ac011238e14dd52fd8b540aba7239ee1a8de80c2dee6eaa029b0a6a4 
+3/31/2025 | 4:16:07 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:16:07 AM | INFO | Start process for wallet 0x394898332f3cA250EF32AbbCEf528BCbA4998004 
+3/31/2025 | 4:16:08 AM | INFO | Trying To Login for wallet: 0x394898332f3cA250EF32AbbCEf528BCbA4998004 
+3/31/2025 | 4:16:08 AM | INFO | Login successful... 
+3/31/2025 | 4:16:08 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:16:09 AM | INFO | User ID: 105373479 | Twitter: @vanisamaudya | Total Points: 942820 
+3/31/2025 | 4:16:09 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:16:09 AM | INFO | Last mining time: 3/30/2025, 1:06:54 AM
+3/31/2025 | 4:16:09 AM | INFO | Trying to start Mining for wallet: 0x394898332f3cA250EF32AbbCEf528BCbA4998004 
+3/31/2025 | 4:16:10 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:16:10 AM | INFO | Trying to activate mining on-chain for wallet: 0x394898332f3cA250EF32AbbCEf528BCbA4998004 
+3/31/2025 | 4:16:20 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc13b2e584d38ea7ac26ab79f2a4bfecf4813d854842486139938548a1e111f3a 
+3/31/2025 | 4:16:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:16:20 AM | INFO | Start process for wallet 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54 
+3/31/2025 | 4:16:21 AM | INFO | Trying To Login for wallet: 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54 
+3/31/2025 | 4:16:21 AM | INFO | Login successful... 
+3/31/2025 | 4:16:21 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:16:22 AM | INFO | User ID: 105373009 | Twitter: @wikazaliva | Total Points: 918760 
+3/31/2025 | 4:16:22 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:16:22 AM | INFO | Last mining time: 3/30/2025, 1:07:03 AM
+3/31/2025 | 4:16:22 AM | INFO | Trying to start Mining for wallet: 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54 
+3/31/2025 | 4:16:23 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:16:23 AM | INFO | Trying to activate mining on-chain for wallet: 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54 
+3/31/2025 | 4:16:28 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xef74991957f1babad06bc4abf23da359a89b575c8dce04b1f7a931a7ed16ef33 
+3/31/2025 | 4:16:28 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:16:28 AM | INFO | Start process for wallet 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e 
+3/31/2025 | 4:16:28 AM | INFO | Trying To Login for wallet: 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e 
+3/31/2025 | 4:16:29 AM | INFO | Login successful... 
+3/31/2025 | 4:16:29 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:16:30 AM | INFO | User ID: 105372632 | Twitter: @mvarisaa | Total Points: 942580 
+3/31/2025 | 4:16:30 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:16:30 AM | INFO | Last mining time: 3/30/2025, 1:07:15 AM
+3/31/2025 | 4:16:30 AM | INFO | Trying to start Mining for wallet: 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e 
+3/31/2025 | 4:16:31 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:16:31 AM | INFO | Trying to activate mining on-chain for wallet: 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e 
+3/31/2025 | 4:16:41 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x8e04e1fca41cb7eb08ed41741524fad5d138a2eaff4b88fcf8d204fa52335d2d 
+3/31/2025 | 4:16:41 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:16:41 AM | INFO | Start process for wallet 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839 
+3/31/2025 | 4:16:41 AM | INFO | Trying To Login for wallet: 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839 
+3/31/2025 | 4:16:42 AM | INFO | Login successful... 
+3/31/2025 | 4:16:42 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:16:42 AM | INFO | User ID: 105407566 | Twitter: @mikasyarlina | Total Points: 918580 
+3/31/2025 | 4:16:42 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:16:43 AM | INFO | Last mining time: 3/30/2025, 1:07:27 AM
+3/31/2025 | 4:16:43 AM | INFO | Trying to start Mining for wallet: 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839 
+3/31/2025 | 4:16:43 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:16:43 AM | INFO | Trying to activate mining on-chain for wallet: 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839 
+3/31/2025 | 4:16:49 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xbccb32941b358588f56a313e895d99086a3b51a0b0b9eaa8433ccd3d04045593 
+3/31/2025 | 4:16:49 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:16:49 AM | INFO | Start process for wallet 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C 
+3/31/2025 | 4:16:49 AM | INFO | Trying To Login for wallet: 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C 
+3/31/2025 | 4:16:50 AM | INFO | Login successful... 
+3/31/2025 | 4:16:50 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:16:51 AM | INFO | User ID: 105413446 | Twitter: @nilaanirmala | Total Points: 894460 
+3/31/2025 | 4:16:51 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:16:51 AM | INFO | Last mining time: 3/30/2025, 1:07:42 AM
+3/31/2025 | 4:16:51 AM | INFO | Trying to start Mining for wallet: 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C 
+3/31/2025 | 4:16:52 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:16:52 AM | INFO | Trying to activate mining on-chain for wallet: 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C 
+3/31/2025 | 4:17:02 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xedda2c827cae64f6000ff8fb7d9e294bc64b51939ca7db9843b973ce4cef6336 
+3/31/2025 | 4:17:02 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:17:02 AM | INFO | Start process for wallet 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439 
+3/31/2025 | 4:17:02 AM | INFO | Trying To Login for wallet: 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439 
+3/31/2025 | 4:17:03 AM | INFO | Login successful... 
+3/31/2025 | 4:17:03 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:17:03 AM | INFO | User ID: 105618197 | Twitter: @vnirmaa | Total Points: 870460 
+3/31/2025 | 4:17:03 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:17:04 AM | INFO | Last mining time: 3/30/2025, 1:07:51 AM
+3/31/2025 | 4:17:04 AM | INFO | Trying to start Mining for wallet: 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439 
+3/31/2025 | 4:17:04 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:17:04 AM | INFO | Trying to activate mining on-chain for wallet: 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439 
+3/31/2025 | 4:17:10 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x89a66483f4f072eb974c21cfc482ed8e626eef5f12e26a7fc5cbef86174f8167 
+3/31/2025 | 4:17:10 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:17:10 AM | INFO | Start process for wallet 0xa46e0AB0310De849837840174a7452Bd159fe148 
+3/31/2025 | 4:17:10 AM | INFO | Trying To Login for wallet: 0xa46e0AB0310De849837840174a7452Bd159fe148 
+3/31/2025 | 4:17:11 AM | INFO | Login successful... 
+3/31/2025 | 4:17:11 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:17:11 AM | INFO | User ID: 105618480 | Twitter: @amiravelerie | Total Points: 894460 
+3/31/2025 | 4:17:11 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:17:12 AM | INFO | Last mining time: 3/30/2025, 1:08:00 AM
+3/31/2025 | 4:17:12 AM | INFO | Trying to start Mining for wallet: 0xa46e0AB0310De849837840174a7452Bd159fe148 
+3/31/2025 | 4:17:13 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:17:13 AM | INFO | Trying to activate mining on-chain for wallet: 0xa46e0AB0310De849837840174a7452Bd159fe148 
+3/31/2025 | 4:17:23 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x0af3bedac41f8ca9198d3616b2fd58aa18c53ed3c4b7baf5cc361d8e61b63439 
+3/31/2025 | 4:17:23 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:17:23 AM | INFO | Start process for wallet 0x109EcCbBc3E04727F74CCFF611152203277777eD 
+3/31/2025 | 4:17:23 AM | INFO | Trying To Login for wallet: 0x109EcCbBc3E04727F74CCFF611152203277777eD 
+3/31/2025 | 4:17:24 AM | INFO | Login successful... 
+3/31/2025 | 4:17:24 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:17:24 AM | INFO | User ID: 107437209 | Twitter: @mysyila | Total Points: 846160 
+3/31/2025 | 4:17:24 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:17:25 AM | INFO | Last mining time: 3/30/2025, 1:08:12 AM
+3/31/2025 | 4:17:25 AM | INFO | Trying to start Mining for wallet: 0x109EcCbBc3E04727F74CCFF611152203277777eD 
+3/31/2025 | 4:17:26 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:17:26 AM | INFO | Trying to activate mining on-chain for wallet: 0x109EcCbBc3E04727F74CCFF611152203277777eD 
+3/31/2025 | 4:17:30 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x464e013f69390da8dd649e708667e5230b7ac61416eecc9ae220b330be694cd4 
+3/31/2025 | 4:17:30 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:17:30 AM | INFO | Start process for wallet 0x85EC28203bc7e2178204536c79C4521a4c885231 
+3/31/2025 | 4:17:31 AM | INFO | Trying To Login for wallet: 0x85EC28203bc7e2178204536c79C4521a4c885231 
+3/31/2025 | 4:17:32 AM | INFO | Login successful... 
+3/31/2025 | 4:17:32 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:17:32 AM | INFO | User ID: 107577093 | Twitter: @myvindy | Total Points: 845980 
+3/31/2025 | 4:17:32 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:17:33 AM | INFO | Last mining time: 3/30/2025, 1:08:24 AM
+3/31/2025 | 4:17:33 AM | INFO | Trying to start Mining for wallet: 0x85EC28203bc7e2178204536c79C4521a4c885231 
+3/31/2025 | 4:17:33 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:17:33 AM | INFO | Trying to activate mining on-chain for wallet: 0x85EC28203bc7e2178204536c79C4521a4c885231 
+3/31/2025 | 4:17:43 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x1daee7d76cace011e95d51ee50391cf3fc9f98fcce27158e67434b2c18a4df0e 
+3/31/2025 | 4:17:43 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:17:43 AM | INFO | Start process for wallet 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1 
+3/31/2025 | 4:17:44 AM | INFO | Trying To Login for wallet: 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1 
+3/31/2025 | 4:17:45 AM | INFO | Login successful... 
+3/31/2025 | 4:17:45 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:17:45 AM | INFO | User ID: 107593486 | Twitter: @nurmaslvna | Total Points: 845860 
+3/31/2025 | 4:17:45 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:17:46 AM | INFO | Last mining time: 3/30/2025, 1:08:36 AM
+3/31/2025 | 4:17:46 AM | INFO | Trying to start Mining for wallet: 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1 
+3/31/2025 | 4:17:46 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:17:46 AM | INFO | Trying to activate mining on-chain for wallet: 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1 
+3/31/2025 | 4:17:52 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x99e85a210ff88c9dc348c63f4dd733301973bd08fc86f51c0148d9016f2f8880 
+3/31/2025 | 4:17:52 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:17:52 AM | INFO | Start process for wallet 0x98fb16257FD87481Eb3Aed0121842907cDb40438 
+3/31/2025 | 4:17:52 AM | INFO | Trying To Login for wallet: 0x98fb16257FD87481Eb3Aed0121842907cDb40438 
+3/31/2025 | 4:17:53 AM | INFO | Login successful... 
+3/31/2025 | 4:17:53 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:17:53 AM | INFO | User ID: 11035501 | Twitter: @mysarmila | Total Points: 870040 
+3/31/2025 | 4:17:53 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:17:54 AM | INFO | Last mining time: 3/30/2025, 1:08:48 AM
+3/31/2025 | 4:17:54 AM | INFO | Trying to start Mining for wallet: 0x98fb16257FD87481Eb3Aed0121842907cDb40438 
+3/31/2025 | 4:17:55 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:17:55 AM | INFO | Trying to activate mining on-chain for wallet: 0x98fb16257FD87481Eb3Aed0121842907cDb40438 
+3/31/2025 | 4:18:04 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf9d3c7088c6fe18f06e07e5838f27b278f7772021a95c261983cbd7f519ecfb3 
+3/31/2025 | 4:18:04 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:18:04 AM | INFO | Start process for wallet 0xB40042665d9c17A380Fe58f568618787cA54E44b 
+3/31/2025 | 4:18:05 AM | INFO | Trying To Login for wallet: 0xB40042665d9c17A380Fe58f568618787cA54E44b 
+3/31/2025 | 4:18:06 AM | INFO | Login successful... 
+3/31/2025 | 4:18:06 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:18:06 AM | INFO | User ID: 107627823 | Twitter: @naidavirmala | Total Points: 870160 
+3/31/2025 | 4:18:06 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:18:07 AM | INFO | Last mining time: 3/30/2025, 1:08:57 AM
+3/31/2025 | 4:18:07 AM | INFO | Trying to start Mining for wallet: 0xB40042665d9c17A380Fe58f568618787cA54E44b 
+3/31/2025 | 4:18:07 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:18:07 AM | INFO | Trying to activate mining on-chain for wallet: 0xB40042665d9c17A380Fe58f568618787cA54E44b 
+3/31/2025 | 4:18:13 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xcb8f100b95bba3deda05acae0704b1ff53886eefc2381a92a22d99e099893bb9 
+3/31/2025 | 4:18:13 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:18:13 AM | INFO | Start process for wallet 0x9163158550158040655f0736cF5B5Fe208b114e0 
+3/31/2025 | 4:18:13 AM | INFO | Trying To Login for wallet: 0x9163158550158040655f0736cF5B5Fe208b114e0 
+3/31/2025 | 4:18:14 AM | INFO | Login successful... 
+3/31/2025 | 4:18:14 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:18:14 AM | INFO | User ID: 107643128 | Twitter: @kezialilia | Total Points: 846160 
+3/31/2025 | 4:18:14 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:18:15 AM | INFO | Last mining time: 3/30/2025, 1:09:09 AM
+3/31/2025 | 4:18:15 AM | INFO | Trying to start Mining for wallet: 0x9163158550158040655f0736cF5B5Fe208b114e0 
+3/31/2025 | 4:18:16 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:18:16 AM | INFO | Trying to activate mining on-chain for wallet: 0x9163158550158040655f0736cF5B5Fe208b114e0 
+3/31/2025 | 4:18:25 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3874f952dcff8f489dce4693cd34812ac6bfd1b38a9a26644a69e5d125132e53 
+3/31/2025 | 4:18:25 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:18:25 AM | INFO | Start process for wallet 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c 
+3/31/2025 | 4:18:26 AM | INFO | Trying To Login for wallet: 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c 
+3/31/2025 | 4:18:27 AM | INFO | Login successful... 
+3/31/2025 | 4:18:27 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:18:27 AM | INFO | User ID: 107660486 | Twitter: @naimarosalia | Total Points: 846100 
+3/31/2025 | 4:18:27 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:18:28 AM | INFO | Last mining time: 3/30/2025, 1:09:21 AM
+3/31/2025 | 4:18:28 AM | INFO | Trying to start Mining for wallet: 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c 
+3/31/2025 | 4:18:28 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:18:28 AM | INFO | Trying to activate mining on-chain for wallet: 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c 
+3/31/2025 | 4:18:34 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa0fd43bed40ab602575d15db63d70cbb8c1bea111ca8850f84bf3a43bd0c969e 
+3/31/2025 | 4:18:34 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:18:34 AM | INFO | Start process for wallet 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4 
+3/31/2025 | 4:18:34 AM | INFO | Trying To Login for wallet: 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4 
+3/31/2025 | 4:18:35 AM | INFO | Login successful... 
+3/31/2025 | 4:18:35 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:18:35 AM | INFO | User ID: 107673447 | Twitter: @carlanatasia | Total Points: 845860 
+3/31/2025 | 4:18:35 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:18:36 AM | INFO | Last mining time: 3/30/2025, 1:09:33 AM
+3/31/2025 | 4:18:36 AM | INFO | Trying to start Mining for wallet: 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4 
+3/31/2025 | 4:18:37 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:18:37 AM | INFO | Trying to activate mining on-chain for wallet: 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4 
+3/31/2025 | 4:18:46 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc0d684b9a433c2a57ccfbc128dea5a41f2fb76b462f2e64bd355938ec678615a 
+3/31/2025 | 4:18:46 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:18:46 AM | INFO | Start process for wallet 0x0f18140FC0E036698c127c20cDe7C05161EDedA0 
+3/31/2025 | 4:18:47 AM | INFO | Trying To Login for wallet: 0x0f18140FC0E036698c127c20cDe7C05161EDedA0 
+3/31/2025 | 4:18:48 AM | INFO | Login successful... 
+3/31/2025 | 4:18:48 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:18:48 AM | INFO | User ID: 107688373 | Twitter: @variidaa | Total Points: 821800 
+3/31/2025 | 4:18:48 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:18:49 AM | INFO | Last mining time: 3/30/2025, 1:09:45 AM
+3/31/2025 | 4:18:49 AM | INFO | Trying to start Mining for wallet: 0x0f18140FC0E036698c127c20cDe7C05161EDedA0 
+3/31/2025 | 4:18:49 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:18:49 AM | INFO | Trying to activate mining on-chain for wallet: 0x0f18140FC0E036698c127c20cDe7C05161EDedA0 
+3/31/2025 | 4:18:54 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa68ed3d51b1e93856745084251489ecdd146aa6881a0d61425282c5061f20a29 
+3/31/2025 | 4:18:54 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:18:54 AM | INFO | Start process for wallet 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D 
+3/31/2025 | 4:18:55 AM | INFO | Trying To Login for wallet: 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D 
+3/31/2025 | 4:18:56 AM | INFO | Login successful... 
+3/31/2025 | 4:18:56 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:18:56 AM | INFO | User ID: 107705812 | Twitter: @vraimaa | Total Points: 845920 
+3/31/2025 | 4:18:56 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:18:57 AM | INFO | Last mining time: 3/30/2025, 1:09:54 AM
+3/31/2025 | 4:18:57 AM | INFO | Trying to start Mining for wallet: 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D 
+3/31/2025 | 4:18:58 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:18:58 AM | INFO | Trying to activate mining on-chain for wallet: 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D 
+3/31/2025 | 4:19:07 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xfb9a0285bc97a7db6176c294e1a43dc5243bce887a4c559db37169cb193137ad 
+3/31/2025 | 4:19:07 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:19:07 AM | INFO | Start process for wallet 0xF33263E24497De51995BB047aE1e999FC67319c0 
+3/31/2025 | 4:19:08 AM | INFO | Trying To Login for wallet: 0xF33263E24497De51995BB047aE1e999FC67319c0 
+3/31/2025 | 4:19:09 AM | INFO | Login successful... 
+3/31/2025 | 4:19:09 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:19:09 AM | INFO | User ID: 107726335 | Twitter: @meldasyarlina | Total Points: 821980 
+3/31/2025 | 4:19:09 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:19:10 AM | INFO | Last mining time: 3/30/2025, 1:10:06 AM
+3/31/2025 | 4:19:10 AM | INFO | Trying to start Mining for wallet: 0xF33263E24497De51995BB047aE1e999FC67319c0 
+3/31/2025 | 4:19:10 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:19:10 AM | INFO | Trying to activate mining on-chain for wallet: 0xF33263E24497De51995BB047aE1e999FC67319c0 
+3/31/2025 | 4:19:16 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3c1183d9bb8c073974a3c0329040ec956c0899209ff84780dd22c9b4814cb4b2 
+3/31/2025 | 4:19:16 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:19:16 AM | INFO | Start process for wallet 0x59a64290685e90706389f8e22399dF11d4F23819 
+3/31/2025 | 4:19:16 AM | INFO | Trying To Login for wallet: 0x59a64290685e90706389f8e22399dF11d4F23819 
+3/31/2025 | 4:19:17 AM | INFO | Login successful... 
+3/31/2025 | 4:19:17 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:19:18 AM | INFO | User ID: 107726809 | Twitter: @salmacilla | Total Points: 821920 
+3/31/2025 | 4:19:18 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:19:18 AM | INFO | Last mining time: 3/30/2025, 1:10:18 AM
+3/31/2025 | 4:19:18 AM | INFO | Trying to start Mining for wallet: 0x59a64290685e90706389f8e22399dF11d4F23819 
+3/31/2025 | 4:19:19 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:19:19 AM | INFO | Trying to activate mining on-chain for wallet: 0x59a64290685e90706389f8e22399dF11d4F23819 
+3/31/2025 | 4:19:28 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa26e1c1de7c93b70d98b354d15441af778f53ee663694b0d851960ce39816163 
+3/31/2025 | 4:19:28 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:19:28 AM | INFO | Start process for wallet 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39 
+3/31/2025 | 4:19:29 AM | INFO | Trying To Login for wallet: 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39 
+3/31/2025 | 4:19:30 AM | INFO | Login successful... 
+3/31/2025 | 4:19:30 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:19:30 AM | INFO | User ID: 107809983 | Twitter: @nafisapriscilla | Total Points: 845980 
+3/31/2025 | 4:19:30 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:19:31 AM | INFO | Last mining time: 3/30/2025, 1:10:30 AM
+3/31/2025 | 4:19:31 AM | INFO | Trying to start Mining for wallet: 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39 
+3/31/2025 | 4:19:32 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:19:32 AM | INFO | Trying to activate mining on-chain for wallet: 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39 
+3/31/2025 | 4:19:37 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xa3ab15ff73ae458582851b9da8c659955008c575a68b9bf4849a46952b35ee7d 
+3/31/2025 | 4:19:37 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:19:37 AM | INFO | Start process for wallet 0x45bc34B164b41953b36DD7405B596ae80b6EaabC 
+3/31/2025 | 4:19:37 AM | INFO | Trying To Login for wallet: 0x45bc34B164b41953b36DD7405B596ae80b6EaabC 
+3/31/2025 | 4:19:38 AM | INFO | Login successful... 
+3/31/2025 | 4:19:38 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:19:39 AM | INFO | User ID: 107826381 | Twitter: @rainavaleska | Total Points: 821980 
+3/31/2025 | 4:19:39 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:19:39 AM | INFO | Last mining time: 3/30/2025, 1:10:42 AM
+3/31/2025 | 4:19:39 AM | INFO | Trying to start Mining for wallet: 0x45bc34B164b41953b36DD7405B596ae80b6EaabC 
+3/31/2025 | 4:19:40 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:19:40 AM | INFO | Trying to activate mining on-chain for wallet: 0x45bc34B164b41953b36DD7405B596ae80b6EaabC 
+3/31/2025 | 4:19:50 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x2970b486e5a69f2fbdef2ab135a2ecafd5c6ea1859cbcab2f895ea12ce3662e9 
+3/31/2025 | 4:19:50 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:19:50 AM | INFO | Start process for wallet 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62 
+3/31/2025 | 4:19:50 AM | INFO | Trying To Login for wallet: 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62 
+3/31/2025 | 4:19:51 AM | INFO | Login successful... 
+3/31/2025 | 4:19:51 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:19:51 AM | INFO | User ID: 107851804 | Twitter: @mzaynaa | Total Points: 821620 
+3/31/2025 | 4:19:51 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:19:52 AM | INFO | Last mining time: 3/30/2025, 1:10:54 AM
+3/31/2025 | 4:19:52 AM | INFO | Trying to start Mining for wallet: 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62 
+3/31/2025 | 4:19:53 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:19:53 AM | INFO | Trying to activate mining on-chain for wallet: 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62 
+3/31/2025 | 4:19:57 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x849e1b337a6876fa7d09ddd82e3f945956e2df5c59dce6154052fa99f9f9b5ca 
+3/31/2025 | 4:19:57 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:19:57 AM | INFO | Start process for wallet 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A 
+3/31/2025 | 4:19:58 AM | INFO | Trying To Login for wallet: 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A 
+3/31/2025 | 4:19:59 AM | INFO | Login successful... 
+3/31/2025 | 4:19:59 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:19:59 AM | INFO | User ID: 107865362 | Twitter: @zaylamaliva | Total Points: 797980 
+3/31/2025 | 4:19:59 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:20:00 AM | INFO | Last mining time: 3/30/2025, 1:11:03 AM
+3/31/2025 | 4:20:00 AM | INFO | Trying to start Mining for wallet: 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A 
+3/31/2025 | 4:20:00 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:20:00 AM | INFO | Trying to activate mining on-chain for wallet: 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A 
+3/31/2025 | 4:20:10 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xc1940836761e76cd2351845a95838371ffc123a29016de67ab6e4f77e00c2612 
+3/31/2025 | 4:20:10 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:20:10 AM | INFO | Start process for wallet 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d 
+3/31/2025 | 4:20:11 AM | INFO | Trying To Login for wallet: 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d 
+3/31/2025 | 4:20:11 AM | INFO | Login successful... 
+3/31/2025 | 4:20:11 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:20:12 AM | INFO | User ID: 107889729 | Twitter: @mywindia | Total Points: 773680 
+3/31/2025 | 4:20:12 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:20:13 AM | INFO | Last mining time: 3/30/2025, 1:11:15 AM
+3/31/2025 | 4:20:13 AM | INFO | Trying to start Mining for wallet: 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d 
+3/31/2025 | 4:20:13 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:20:13 AM | INFO | Trying to activate mining on-chain for wallet: 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d 
+3/31/2025 | 4:20:19 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x3a39e8cc416bfe77d9affbbac5cebf6af68f86231785786a94b2fbcfa7ce0eae 
+3/31/2025 | 4:20:19 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:20:19 AM | INFO | Start process for wallet 0x409148BD0709047c2c454d11B112cC70fe17E01E 
+3/31/2025 | 4:20:19 AM | INFO | Trying To Login for wallet: 0x409148BD0709047c2c454d11B112cC70fe17E01E 
+3/31/2025 | 4:20:20 AM | INFO | Login successful... 
+3/31/2025 | 4:20:20 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:20:20 AM | INFO | User ID: 108344188 | Twitter: @gnovicaa | Total Points: 749740 
+3/31/2025 | 4:20:20 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:20:21 AM | INFO | Last mining time: 3/30/2025, 1:11:27 AM
+3/31/2025 | 4:20:21 AM | INFO | Trying to start Mining for wallet: 0x409148BD0709047c2c454d11B112cC70fe17E01E 
+3/31/2025 | 4:20:22 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:20:22 AM | INFO | Trying to activate mining on-chain for wallet: 0x409148BD0709047c2c454d11B112cC70fe17E01E 
+3/31/2025 | 4:20:31 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x723cdaac359f4807b741b0ecbec3bbaa8b78bf3c8742f3c06281b43969982a2f 
+3/31/2025 | 4:20:31 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:20:31 AM | INFO | Start process for wallet 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55 
+3/31/2025 | 4:20:32 AM | INFO | Trying To Login for wallet: 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55 
+3/31/2025 | 4:20:33 AM | INFO | Login successful... 
+3/31/2025 | 4:20:33 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:20:33 AM | INFO | User ID: 108357940 | Twitter: @myvindaa | Total Points: 773740 
+3/31/2025 | 4:20:33 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:20:34 AM | INFO | Last mining time: 3/30/2025, 1:11:39 AM
+3/31/2025 | 4:20:34 AM | INFO | Trying to start Mining for wallet: 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55 
+3/31/2025 | 4:20:34 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:20:34 AM | INFO | Trying to activate mining on-chain for wallet: 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55 
+3/31/2025 | 4:20:39 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xee34386e27d7b59a412d2df06e8afa9dcdb2dddc723ceb8fc6e863c18ac259fe 
+3/31/2025 | 4:20:39 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:20:39 AM | INFO | Start process for wallet 0x70727Ee60c8f2Ba0608E008061D094696D723fD5 
+3/31/2025 | 4:20:40 AM | INFO | Trying To Login for wallet: 0x70727Ee60c8f2Ba0608E008061D094696D723fD5 
+3/31/2025 | 4:20:41 AM | INFO | Login successful... 
+3/31/2025 | 4:20:41 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:20:41 AM | INFO | User ID: 108369204 | Twitter: @miftavirmala | Total Points: 821680 
+3/31/2025 | 4:20:41 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:20:42 AM | INFO | Last mining time: 3/30/2025, 1:11:51 AM
+3/31/2025 | 4:20:42 AM | INFO | Trying to start Mining for wallet: 0x70727Ee60c8f2Ba0608E008061D094696D723fD5 
+3/31/2025 | 4:20:42 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:20:42 AM | INFO | Trying to activate mining on-chain for wallet: 0x70727Ee60c8f2Ba0608E008061D094696D723fD5 
+3/31/2025 | 4:20:52 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x21892780086934c816648da1df9b29fde70b2baae7a5155e1aff665c74212074 
+3/31/2025 | 4:20:52 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:20:52 AM | INFO | Start process for wallet 0x27e102D33145118394bA8BA0123fD169919B30Db 
+3/31/2025 | 4:20:53 AM | INFO | Trying To Login for wallet: 0x27e102D33145118394bA8BA0123fD169919B30Db 
+3/31/2025 | 4:20:53 AM | INFO | Login successful... 
+3/31/2025 | 4:20:53 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:20:54 AM | INFO | User ID: 108385746 | Twitter: @zrisnaa | Total Points: 749680 
+3/31/2025 | 4:20:54 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:20:55 AM | INFO | Last mining time: 3/30/2025, 1:12:03 AM
+3/31/2025 | 4:20:55 AM | INFO | Trying to start Mining for wallet: 0x27e102D33145118394bA8BA0123fD169919B30Db 
+3/31/2025 | 4:20:55 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:20:55 AM | INFO | Trying to activate mining on-chain for wallet: 0x27e102D33145118394bA8BA0123fD169919B30Db 
+3/31/2025 | 4:21:00 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0xf8865cfad5fd68681dea16db76b31a10234e9620e436da634b8c630144624f23 
+3/31/2025 | 4:21:00 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:21:00 AM | INFO | Start process for wallet 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2 
+3/31/2025 | 4:21:01 AM | INFO | Trying To Login for wallet: 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2 
+3/31/2025 | 4:21:02 AM | INFO | Login successful... 
+3/31/2025 | 4:21:02 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:21:02 AM | INFO | User ID: 108402814 | Twitter: @vnrisla | Total Points: 821800 
+3/31/2025 | 4:21:02 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:21:03 AM | INFO | Last mining time: 3/30/2025, 1:12:12 AM
+3/31/2025 | 4:21:03 AM | INFO | Trying to start Mining for wallet: 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2 
+3/31/2025 | 4:21:04 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:21:04 AM | INFO | Trying to activate mining on-chain for wallet: 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2 
+3/31/2025 | 4:21:14 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x9a5d4a898622b8d045f1246cde7201ebdc6f8be8aa978a1c2c04cffa23079e40 
+3/31/2025 | 4:21:14 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:21:14 AM | INFO | Start process for wallet 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+3/31/2025 | 4:21:14 AM | INFO | Trying To Login for wallet: 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+3/31/2025 | 4:21:15 AM | INFO | Login successful... 
+3/31/2025 | 4:21:15 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:21:15 AM | INFO | User ID: 157969547 | Twitter: @0xyzan | Total Points: 628420 
+3/31/2025 | 4:21:15 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:21:16 AM | INFO | Last mining time: 3/30/2025, 1:12:24 AM
+3/31/2025 | 4:21:16 AM | INFO | Trying to start Mining for wallet: 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+3/31/2025 | 4:21:16 AM | INFO | Mine response: {"code":200,"msg":"SUCCESS","data":"ok"}
+3/31/2025 | 4:21:16 AM | INFO | Trying to activate mining on-chain for wallet: 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+3/31/2025 | 4:21:26 AM | INFO | Activate Mining Hash: https://explorer.taker.xyz/tx/0x08162c749ab5b78332d5d241662f1e253b1786ac9f0800d3f20d0c3ab4e1055e 
+3/31/2025 | 4:21:26 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+3/31/2025 | 4:21:26 AM | INFO | Start process for wallet 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+3/31/2025 | 4:21:27 AM | INFO | Trying To Login for wallet: 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+3/31/2025 | 4:21:28 AM | INFO | Login successful... 
+3/31/2025 | 4:21:28 AM | INFO | Trying to check user info... 
+3/31/2025 | 4:21:28 AM | INFO | User ID: 157969547 | Twitter: @0xyzan | Total Points: 652420 
+3/31/2025 | 4:21:28 AM | INFO | Trying to check user miner status... 
+3/31/2025 | 4:21:29 AM | INFO | Last mining time: 3/31/2025, 4:21:24 AM
+3/31/2025 | 4:21:29 AM | WARN | Mining already started, next mining time is: 4/1/2025, 4:21:24 AM
