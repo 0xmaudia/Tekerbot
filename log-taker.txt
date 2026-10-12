@@ -843780,3 +843780,323 @@
 10/11/2026 | 11:25:19 PM | WARN | Retrying... (0 attempts left) 
 10/11/2026 | 11:25:22 PM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
 10/11/2026 | 11:25:22 PM | ERROR | Failed to retrieve nonce for wallet: 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+10/12/2026 | 3:40:43 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:40:43 AM | INFO | Start process for wallet 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4 
+10/12/2026 | 3:40:43 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:40:43 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:40:46 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:40:46 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:40:49 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:40:49 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:40:52 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:40:52 AM | ERROR | Failed to retrieve nonce for wallet: 0xd082fd42Ba031EE93E5bbE44dB6737B91f7A7dD4 
+10/12/2026 | 3:40:52 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:40:52 AM | INFO | Start process for wallet 0x394898332f3cA250EF32AbbCEf528BCbA4998004 
+10/12/2026 | 3:40:52 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:40:52 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:40:55 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:40:55 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:40:58 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:40:58 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:41:01 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:01 AM | ERROR | Failed to retrieve nonce for wallet: 0x394898332f3cA250EF32AbbCEf528BCbA4998004 
+10/12/2026 | 3:41:01 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:41:01 AM | INFO | Start process for wallet 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54 
+10/12/2026 | 3:41:01 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:01 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:41:04 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:04 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:41:07 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:07 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:41:10 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:10 AM | ERROR | Failed to retrieve nonce for wallet: 0x13c7fc6fFd8383E8870356C40AE46B936D4F7A54 
+10/12/2026 | 3:41:10 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:41:10 AM | INFO | Start process for wallet 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e 
+10/12/2026 | 3:41:10 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:10 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:41:13 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:13 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:41:16 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:16 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:41:19 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:19 AM | ERROR | Failed to retrieve nonce for wallet: 0xb16691f487a39Ec7239b7506885bf553Bc7Ce78e 
+10/12/2026 | 3:41:19 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:41:19 AM | INFO | Start process for wallet 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839 
+10/12/2026 | 3:41:19 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:19 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:41:22 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:22 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:41:25 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:25 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:41:28 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:28 AM | ERROR | Failed to retrieve nonce for wallet: 0x846516Cf0D081d1204AA2Cf7a55180da3dEd3839 
+10/12/2026 | 3:41:28 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:41:28 AM | INFO | Start process for wallet 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C 
+10/12/2026 | 3:41:28 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:28 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:41:31 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:31 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:41:34 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:34 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:41:37 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:37 AM | ERROR | Failed to retrieve nonce for wallet: 0xD22522e5AB993E3EaEC98d83b1131Ad5418E218C 
+10/12/2026 | 3:41:37 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:41:37 AM | INFO | Start process for wallet 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439 
+10/12/2026 | 3:41:37 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:37 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:41:40 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:40 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:41:43 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:43 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:41:46 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:46 AM | ERROR | Failed to retrieve nonce for wallet: 0x061408a3A8a11BFF9bE8aB02601ACdddd389E439 
+10/12/2026 | 3:41:46 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:41:46 AM | INFO | Start process for wallet 0xa46e0AB0310De849837840174a7452Bd159fe148 
+10/12/2026 | 3:41:46 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:46 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:41:50 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:50 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:41:53 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:53 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:41:56 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:56 AM | ERROR | Failed to retrieve nonce for wallet: 0xa46e0AB0310De849837840174a7452Bd159fe148 
+10/12/2026 | 3:41:56 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:41:56 AM | INFO | Start process for wallet 0x109EcCbBc3E04727F74CCFF611152203277777eD 
+10/12/2026 | 3:41:56 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:56 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:41:59 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:41:59 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:42:02 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:02 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:42:05 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:05 AM | ERROR | Failed to retrieve nonce for wallet: 0x109EcCbBc3E04727F74CCFF611152203277777eD 
+10/12/2026 | 3:42:05 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:42:05 AM | INFO | Start process for wallet 0x85EC28203bc7e2178204536c79C4521a4c885231 
+10/12/2026 | 3:42:05 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:05 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:42:08 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:08 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:42:11 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:11 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:42:14 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:14 AM | ERROR | Failed to retrieve nonce for wallet: 0x85EC28203bc7e2178204536c79C4521a4c885231 
+10/12/2026 | 3:42:14 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:42:14 AM | INFO | Start process for wallet 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1 
+10/12/2026 | 3:42:14 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:14 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:42:17 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:17 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:42:20 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:20 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:42:23 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:23 AM | ERROR | Failed to retrieve nonce for wallet: 0xA49Be7Cc6f4A8c3148E5CCB21E3aF8A6358a34E1 
+10/12/2026 | 3:42:23 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:42:23 AM | INFO | Start process for wallet 0x98fb16257FD87481Eb3Aed0121842907cDb40438 
+10/12/2026 | 3:42:23 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:23 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:42:26 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:26 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:42:29 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:29 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:42:32 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:32 AM | ERROR | Failed to retrieve nonce for wallet: 0x98fb16257FD87481Eb3Aed0121842907cDb40438 
+10/12/2026 | 3:42:32 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:42:32 AM | INFO | Start process for wallet 0xB40042665d9c17A380Fe58f568618787cA54E44b 
+10/12/2026 | 3:42:32 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:32 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:42:35 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:35 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:42:38 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:38 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:42:41 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:41 AM | ERROR | Failed to retrieve nonce for wallet: 0xB40042665d9c17A380Fe58f568618787cA54E44b 
+10/12/2026 | 3:42:41 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:42:41 AM | INFO | Start process for wallet 0x9163158550158040655f0736cF5B5Fe208b114e0 
+10/12/2026 | 3:42:41 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:41 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:42:44 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:44 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:42:47 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:47 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:42:50 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:50 AM | ERROR | Failed to retrieve nonce for wallet: 0x9163158550158040655f0736cF5B5Fe208b114e0 
+10/12/2026 | 3:42:50 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:42:50 AM | INFO | Start process for wallet 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c 
+10/12/2026 | 3:42:50 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:50 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:42:53 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:53 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:42:56 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:56 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:42:59 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:59 AM | ERROR | Failed to retrieve nonce for wallet: 0x07867be50ED1A1Fd0a23D296e69883d0a0952D0c 
+10/12/2026 | 3:42:59 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:42:59 AM | INFO | Start process for wallet 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4 
+10/12/2026 | 3:42:59 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:42:59 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:43:02 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:02 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:43:05 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:05 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:43:08 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:08 AM | ERROR | Failed to retrieve nonce for wallet: 0xfD307FdB323EAf74a5af2176324d5616D1f76fF4 
+10/12/2026 | 3:43:08 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:43:08 AM | INFO | Start process for wallet 0x0f18140FC0E036698c127c20cDe7C05161EDedA0 
+10/12/2026 | 3:43:08 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:08 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:43:11 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:11 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:43:14 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:14 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:43:17 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:17 AM | ERROR | Failed to retrieve nonce for wallet: 0x0f18140FC0E036698c127c20cDe7C05161EDedA0 
+10/12/2026 | 3:43:17 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:43:17 AM | INFO | Start process for wallet 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D 
+10/12/2026 | 3:43:17 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:17 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:43:20 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:20 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:43:23 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:23 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:43:26 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:26 AM | ERROR | Failed to retrieve nonce for wallet: 0xA4C94713F8B4D91ff76aEb625281F844bd5F758D 
+10/12/2026 | 3:43:26 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:43:26 AM | INFO | Start process for wallet 0xF33263E24497De51995BB047aE1e999FC67319c0 
+10/12/2026 | 3:43:26 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:26 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:43:29 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:29 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:43:32 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:32 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:43:35 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:35 AM | ERROR | Failed to retrieve nonce for wallet: 0xF33263E24497De51995BB047aE1e999FC67319c0 
+10/12/2026 | 3:43:35 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:43:35 AM | INFO | Start process for wallet 0x59a64290685e90706389f8e22399dF11d4F23819 
+10/12/2026 | 3:43:35 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:35 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:43:38 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:38 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:43:41 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:41 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:43:44 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:44 AM | ERROR | Failed to retrieve nonce for wallet: 0x59a64290685e90706389f8e22399dF11d4F23819 
+10/12/2026 | 3:43:44 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:43:44 AM | INFO | Start process for wallet 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39 
+10/12/2026 | 3:43:49 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:49 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:43:52 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:52 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:43:55 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:55 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:43:58 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:58 AM | ERROR | Failed to retrieve nonce for wallet: 0xf3A614B5EBD9c50C145e8669c4DE9D59AeD6dD39 
+10/12/2026 | 3:43:58 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:43:58 AM | INFO | Start process for wallet 0x45bc34B164b41953b36DD7405B596ae80b6EaabC 
+10/12/2026 | 3:43:58 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:43:58 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:44:01 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:01 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:44:04 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:04 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:44:07 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:07 AM | ERROR | Failed to retrieve nonce for wallet: 0x45bc34B164b41953b36DD7405B596ae80b6EaabC 
+10/12/2026 | 3:44:07 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:44:07 AM | INFO | Start process for wallet 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62 
+10/12/2026 | 3:44:08 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:08 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:44:11 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:11 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:44:14 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:14 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:44:17 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:17 AM | ERROR | Failed to retrieve nonce for wallet: 0xc8EE458A0E4e97E44F6cFF4d4244f0c430FD7f62 
+10/12/2026 | 3:44:17 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:44:17 AM | INFO | Start process for wallet 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A 
+10/12/2026 | 3:44:17 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:17 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:44:20 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:20 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:44:23 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:23 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:44:26 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:26 AM | ERROR | Failed to retrieve nonce for wallet: 0x2B792eEfF90F15BeF0d8eE06CE71C3DBCabD696A 
+10/12/2026 | 3:44:26 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:44:26 AM | INFO | Start process for wallet 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d 
+10/12/2026 | 3:44:26 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:26 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:44:29 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:29 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:44:32 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:32 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:44:35 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:35 AM | ERROR | Failed to retrieve nonce for wallet: 0xC9fD9A59E2Fe9D83a3d11258A552945CC679748d 
+10/12/2026 | 3:44:35 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:44:35 AM | INFO | Start process for wallet 0x409148BD0709047c2c454d11B112cC70fe17E01E 
+10/12/2026 | 3:44:35 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:35 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:44:38 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:38 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:44:41 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:41 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:44:44 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:44 AM | ERROR | Failed to retrieve nonce for wallet: 0x409148BD0709047c2c454d11B112cC70fe17E01E 
+10/12/2026 | 3:44:44 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:44:44 AM | INFO | Start process for wallet 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55 
+10/12/2026 | 3:44:44 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:44 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:44:47 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:47 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:44:50 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:50 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:44:53 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:53 AM | ERROR | Failed to retrieve nonce for wallet: 0x9265Ec11A255338eBDe7416303328b1Ac3D08d55 
+10/12/2026 | 3:44:53 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:44:53 AM | INFO | Start process for wallet 0x70727Ee60c8f2Ba0608E008061D094696D723fD5 
+10/12/2026 | 3:44:53 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:53 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:44:56 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:56 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:44:59 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:44:59 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:45:02 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:02 AM | ERROR | Failed to retrieve nonce for wallet: 0x70727Ee60c8f2Ba0608E008061D094696D723fD5 
+10/12/2026 | 3:45:02 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:45:02 AM | INFO | Start process for wallet 0x27e102D33145118394bA8BA0123fD169919B30Db 
+10/12/2026 | 3:45:02 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:02 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:45:05 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:05 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:45:08 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:08 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:45:11 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:11 AM | ERROR | Failed to retrieve nonce for wallet: 0x27e102D33145118394bA8BA0123fD169919B30Db 
+10/12/2026 | 3:45:11 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:45:11 AM | INFO | Start process for wallet 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2 
+10/12/2026 | 3:45:11 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:11 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:45:14 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:14 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:45:17 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:17 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:45:20 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:20 AM | ERROR | Failed to retrieve nonce for wallet: 0x0C52ae7bEAE1773F598F51759AB0F01eD6C6BBd2 
+10/12/2026 | 3:45:20 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:45:20 AM | INFO | Start process for wallet 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+10/12/2026 | 3:45:20 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:20 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:45:23 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:23 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:45:26 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:26 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:45:29 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:29 AM | ERROR | Failed to retrieve nonce for wallet: 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+10/12/2026 | 3:45:29 AM | WARN |   === Sever is down bot might be slow - Just be patient ===
+10/12/2026 | 3:45:29 AM | INFO | Start process for wallet 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
+10/12/2026 | 3:45:29 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:29 AM | WARN | Retrying... (2 attempts left) 
+10/12/2026 | 3:45:32 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:32 AM | WARN | Retrying... (1 attempts left) 
+10/12/2026 | 3:45:35 AM | ERROR | Failed to get nonce: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:35 AM | WARN | Retrying... (0 attempts left) 
+10/12/2026 | 3:45:38 AM | ERROR | Failed to get nonce after retries: getaddrinfo ENOTFOUND lightmining-api.taker.xyz
+10/12/2026 | 3:45:38 AM | ERROR | Failed to retrieve nonce for wallet: 0x6986Eaa8D1c7e7B406C71587BDef1898C864AeE3 
